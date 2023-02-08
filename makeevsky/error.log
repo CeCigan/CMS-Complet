@@ -1,0 +1,2 @@
+[Tue Jan 17 22:58:38.138956 2023] [php7:emerg] [pid 10505] [client 192.168.0.12:53255] PHP Parse error:  syntax error, unexpected '}' in /home/rrfhiumy-m1/index.php on line 93, referer: http://wsrweb/
+[Tue Jan 17 23:10:41.952421 2023] [php7:emerg] [pid 13002] [client 192.168.0.12:53577] PHP Parse error:  syntax error, unexpected '}' in /home/rrfhiumy-m1/index.php on line 93, referer: http://wsrweb/
